@@ -1,5 +1,4 @@
 const solution = (arr) => {
-    let stack = [];
     let answer = [];
 
     arr.forEach((v, i) => {
